@@ -2,7 +2,7 @@
 
 > A production-grade web application that detects money muling networks in financial transaction data through graph analysis, statistical anomaly detection, and interactive visualization.
 
-**Live Demo:** _Coming Soon_
+**Live Demo:** [TransactGuard](https://transact-guard.vercel.app/)
 **GitHub:** [Abhinandan-KP/muledetection](https://github.com/Abhinandan-KP/muledetection)
 
 ---
